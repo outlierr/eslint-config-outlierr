@@ -1,6 +1,6 @@
 {
   "name": "@outlierr/eslint-config-vue",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "",
   "main": "index.js",
   "publishConfig": {
@@ -25,7 +25,7 @@
     "eslint": ">=8"
   },
   "optionalDependencies": {
-    "@outlierr/eslint-config-typescript": "^0.0.6"
+    "@outlierr/eslint-config-typescript": "^0.0.7"
   },
   "devDependencies": {
     "eslint": "^8.13.0"
