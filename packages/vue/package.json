@@ -6,9 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/outlierr/eslint-config-outlierr.git"
@@ -23,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/outlierr/eslint-config-outlierr/issues"
   },
-  "homepage": "https://github.com/outlierr/eslint-config-outlierr#readme"
+  "homepage": "https://github.com/outlierr/eslint-config-outlierr#readme",
+  "gitHead": "54c1c8ee6495f74cef28fee8dadb358c809e83ab"
 }
