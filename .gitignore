@@ -1,0 +1,21 @@
+.DS_Store
+.env
+dist/
+build/
+.idea/
+.vs/
+docs/_build/
+node_modules/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+*,cover
+
+# IntelliJ related files
+.idea
+*.iml
+
+# VS Code related files
+.vscode

@@ -1,0 +1,10 @@
+15 error Error: Command failed with exit code 1: git remote update
+15 error fatal: unable to access 'https://github.com/outlierr/eslint-config-outlierr.git/': OpenSSL SSL_read: Connection was reset, errno 10054
+15 error error: could not fetch origin
+15 error Fetching origin
+15 error     at makeError (D:\pnpm\global\5\node_modules\.pnpm\registry.npmmirror.com+execa@5.1.1\node_modules\execa\lib\error.js:60:11)
+15 error     at Function.module.exports.sync (D:\pnpm\global\5\node_modules\.pnpm\registry.npmmirror.com+execa@5.1.1\node_modules\execa\index.js:194:17)
+15 error     at Object.execSync (D:\pnpm\global\5\node_modules\.pnpm\registry.npmmirror.com+@lerna+child-process@4.0.0\node_modules\@lerna\child-process\index.js:39:16)
+15 error     at updateRemote (D:\pnpm\global\5\node_modules\.pnpm\registry.npmmirror.com+@lerna+version@4.0.0\node_modules\@lerna\version\lib\is-behind-upstream.js:34:16)
+15 error     at isBehindUpstream (D:\pnpm\global\5\node_modules\.pnpm\registry.npmmirror.com+@lerna+version@4.0.0\node_modules\@lerna\version\lib\is-behind-upstream.js:16:3)
+15 error     at VersionCommand.initialize (D:\pnpm\global\5\node_modules\.pnpm\registry.npmmirror.com+@lerna+version@4.0.0\node_modules\@lerna\version\index.js:153:9)
