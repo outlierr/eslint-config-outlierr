@@ -3,21 +3,22 @@
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "publishConfig": {
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/outlierr/eslint-config-outlierr.git"
+    "url": "git+https://github.com/outlierr/eslint-config-outlierr.git",
+    "directory": "packages/vue"
   },
   "keywords": [
     "eslint",
     "vue",
     "typescript"
   ],
+  "engines": {
+    "node": ">=14"
+  },
   "author": "outlierr",
   "license": "ISC",
   "peerDependencies": {
