@@ -18,9 +18,10 @@
   ],
   "author": "outlierr",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/outlierr/eslint-config-outlierr/issues"
+  "peerDependencies": {
+    "eslint": ">=8"
   },
-  "homepage": "https://github.com/outlierr/eslint-config-outlierr#readme",
-  "gitHead": "54c1c8ee6495f74cef28fee8dadb358c809e83ab"
+  "devDependencies": {
+    "eslint": "^8.13.0"
+  }
 }

@@ -18,9 +18,12 @@
   ],
   "author": "outlierr",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/outlierr/eslint-config-outlierr/issues"
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "typescript": "^4.6.3"
   },
-  "homepage": "https://github.com/outlierr/eslint-config-outlierr#readme",
-  "gitHead": "54c1c8ee6495f74cef28fee8dadb358c809e83ab"
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.18.0",
+    "@typescript-eslint/parser": "^5.18.0"
+  }
 }
